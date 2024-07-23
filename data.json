@@ -1,0 +1,118 @@
+{
+  "hotels": [
+    {
+      "name": "Park Hyatt Tokyo",
+      "address": "3-7-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-0571, Japan",
+      "price": "$350-$550 per night",
+      "imageUrl": "https://media.cntraveler.com/photos/59c00372683003754514567e/master/pass/tokyo-park-hyatt-hotel-exterior.jpg",
+      "geoCoordinates": "35.6895,139.6917",
+      "rating": "5 stars",
+      "description": "Iconic hotel featured in the movie 'Lost in Translation', offering breathtaking city views and luxurious accommodations."
+    },
+    {
+      "name": "Imperial Hotel",
+      "address": "1-1, Uchisaiwaicho, Chiyoda-ku, Tokyo 100-8558, Japan",
+      "price": "$250-$450 per night",
+      "imageUrl": "https://www.imperialhotel.co.jp/en/img/top/top_img01.jpg",
+      "geoCoordinates": "35.6701,139.7662",
+      "rating": "4.5 stars",
+      "description": "Historic hotel with elegant rooms and fine dining, located near the Imperial Palace."
+    },
+    {
+      "name": "Mandarin Oriental Tokyo",
+      "address": "2-1-1 Nihonbashi Muromachi, Chuo-ku, Tokyo 103-8328, Japan",
+      "price": "$300-$500 per night",
+      "imageUrl": "https://www.mandarinoriental.com/tokyo/nihonbashi/gallery/hotel/hotel-exterior-2.jpg",
+      "geoCoordinates": "35.6833,139.7728",
+      "rating": "5 stars",
+      "description": "Sophisticated hotel with stunning views of Tokyo Skytree and the Sumida River, known for its luxurious amenities."
+    },
+    {
+      "name": "The Peninsula Tokyo",
+      "address": "1-8-1 Yurakucho, Chiyoda-ku, Tokyo 100-0006, Japan",
+      "price": "$400-$600 per night",
+      "imageUrl": "https://www.peninsula.com/tokyo/en/gallery/hotel/hotel-exterior.jpg",
+      "geoCoordinates": "35.6763,139.7625",
+      "rating": "5 stars",
+      "description": "Elegant hotel with a rooftop bar and Michelin-starred restaurants, offering a prime location in Ginza."
+    }
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "theme": "Exploring Tokyo's Culture and Cuisine",
+      "schedule": [
+        {
+          "time": "9:00 AM",
+          "placeName": "Breakfast at your hotel",
+          "placeDetails": "Enjoy a delicious breakfast with Japanese and Western options.",
+          "placeImageUrl": "",
+          "geoCoordinates": "",
+          "ticketPricing": "Included in hotel stay",
+          "rating": "",
+          "timeToTravel": "N/A"
+        },
+        {
+          "time": "10:00 AM",
+          "placeName": "Visit the Meiji Jingu Shrine",
+          "placeDetails": "A serene Shinto shrine dedicated to Emperor Meiji and Empress Shoken, surrounded by lush forest.",
+          "placeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Meiji_Jingu_shrine_01.jpg/1280px-Meiji_Jingu_shrine_01.jpg",
+          "geoCoordinates": "35.6731,139.6853",
+          "ticketPricing": "Free",
+          "rating": "4.5 stars",
+          "timeToTravel": "30 minutes"
+        },
+        {
+          "time": "12:00 PM",
+          "placeName": "Lunch at Tsukiji Outer Market",
+          "placeDetails": "Indulge in fresh seafood, sushi, and other delicious Japanese treats.",
+          "placeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tsukiji_outer_market.jpg/1280px-Tsukiji_outer_market.jpg",
+          "geoCoordinates": "35.6678,139.7884",
+          "ticketPricing": "N/A",
+          "rating": "4 stars",
+          "timeToTravel": "45 minutes"
+        },
+        {
+          "time": "2:00 PM",
+          "placeName": "Explore the Sensō-ji Temple",
+          "placeDetails": "Tokyo's oldest temple, known for its vibrant Kaminarimon (Thunder Gate) and colorful architecture.",
+          "placeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sens%C5%8D-ji_Temple_%2528cropped%2529.jpg/1280px-Sens%C5%8D-ji_Temple_%2528cropped%2529.jpg",
+          "geoCoordinates": "35.7104,139.7989",
+          "ticketPricing": "Free",
+          "rating": "4.5 stars",
+          "timeToTravel": "30 minutes"
+        },
+        {
+          "time": "4:00 PM",
+          "placeName": "Enjoy a traditional tea ceremony",
+          "placeDetails": "Experience the peaceful and elegant ritual of Japanese tea ceremony at a teahouse.",
+          "placeImageUrl": "https://www.japantravel.com/images/uploads/2018/07/teaceremony.jpg",
+          "geoCoordinates": "35.6895,139.6917",
+          "ticketPricing": "$20-$30",
+          "rating": "4 stars",
+          "timeToTravel": "15 minutes"
+        },
+        {
+          "time": "6:00 PM",
+          "placeName": "Dinner at a local Izakaya",
+          "placeDetails": "Indulge in a lively and authentic Japanese pub experience with small plates and drinks.",
+          "placeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Izakaya_interior.jpg/1280px-Izakaya_interior.jpg",
+          "geoCoordinates": "35.6895,139.6917",
+          "ticketPricing": "$30-$50",
+          "rating": "4 stars",
+          "timeToTravel": "15 minutes"
+        },
+        {
+          "time": "8:00 PM",
+          "placeName": "Enjoy a stroll through Shinjuku Gyoen National Garden",
+          "placeDetails": "A beautiful oasis in the bustling city, with traditional Japanese gardens and a serene atmosphere.",
+          "placeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Shinjuku_Gyoen_National_Garden_20090404_02.jpg/1280px-Shinjuku_Gyoen_National_Garden_20090404_02.jpg",
+          "geoCoordinates": "35.6815,139.7054",
+          "ticketPricing": "Free",
+          "rating": "4.5 stars",
+          "timeToTravel": "10 minutes"
+        }
+      ]
+    }
+  ]
+}
